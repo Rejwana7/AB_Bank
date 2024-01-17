@@ -15,4 +15,5 @@ platformdirs
 filelock
 pillow
 virtualenv
+dj-database-url
 
